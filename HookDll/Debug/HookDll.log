@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+c:\users\cxs\documents\visual studio 2010\projects\directxsamples\tutorial07\hookdll\dllmain.cpp(124): warning C4101: “strbuff”: 未引用的局部变量
+  HookDll.vcxproj -> C:\Users\cxs\Documents\Visual Studio 2010\Projects\DirectXSamples\Tutorial07\Debug\HookDll.dll
+  HookDll.vcxproj -> C:\Users\cxs\Documents\Visual Studio 2010\Projects\DirectXSamples\Tutorial07\Debug\HookDll.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+dllmain.cpp(124): warning C4101: “strbuff”: 未引用的局部变量
+    正在创建库 C:\Users\cxs\Documents\Visual Studio 2010\Projects\DirectXSamples\Tutorial07\Release\HookDll.lib 和对象 C:\Users\cxs\Documents\Visual Studio 2010\Projects\DirectXSamples\Tutorial07\Release\HookDll.exp
+  正在生成代码
+  4 of 77 functions ( 5.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HookDll.vcxproj -> C:\Users\cxs\Documents\Visual Studio 2010\Projects\DirectXSamples\Tutorial07\Release\HookDll.dll
+  HookDll.vcxproj -> C:\Users\cxs\Documents\Visual Studio 2010\Projects\DirectXSamples\Tutorial07\Release\HookDll.pdb (Full PDB)
